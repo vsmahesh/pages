@@ -76,7 +76,9 @@ customElements.define(
         "/api/phr/v1/myhealth/blood-pressure-data-manager",
       ];
 
-      const requests = urls.map((url) => fetch(`${this.baseUrl}${url}`));
+      const requests = urls.map((url) => fetch(`${this.baseUrl}${url}`, { headers: {
+        'Accept':'application/json'
+      }}));
 
       const currentYear = new Date().getFullYear();
       Promise.all(requests)
