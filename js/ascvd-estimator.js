@@ -70,7 +70,7 @@ customElements.define(
 
     async connectedCallback() {
       const urls = [
-        "/api/phr/v1/demographic?demographicInfo=false",
+        "/api/phr/v1/demographic?demographicInfo=true",
         "/api/phr/v1/myhealth/hba1c-data-manager",
         "/api/phr/v1/myhealth/cholesterol-data-manager",
         "/api/phr/v1/myhealth/blood-pressure-data-manager",
