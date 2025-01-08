@@ -1,0 +1,40 @@
+{
+  "personalItem": {
+    "dateOfBirth": "2009-10-14",
+    "displayDateOfBirth": "10/14/2009",
+    "ethnicity": "",
+    "firstName": "John",
+    "lastName": "Doe",
+    "nameSuffix": "",
+    "maritalStatus": "",
+    "bloodType": "",
+    "timeZoneId": "(UTC-05:00) Eastern Time (US & Canada)",
+    "versionstamp": "7fc42c24-6336-4cab-b535-ccd5f14a7ce5",
+    "thingId": "867d9ac4-f9cb-46eb-a6af-54d6edd22b98",
+    "isDeceased": false
+  },
+  "basicItem": {
+    "birthYear": 1980,
+    "genderOfPerson": "Male",
+    "versionstamp": "cf5df089-b52d-4382-bc34-874a00557586",
+    "thingId": "d4b41e32-f0c9-4872-8219-ffaddae75398",
+    "country": "United States",
+    "languages": []
+  },
+  "contactItem": {
+    "streetAddress": "",
+    "city": "",
+    "zip": "",
+    "email": [
+      {
+        "email": "abc@gmail.com",
+        "isprimary": false
+      }
+    ],
+    "phone": [],
+    "formattedAddress": "<div> </div> <div></div> <div></div>",
+    "versionstamp": "047359e6-63ed-4c7c-985c-2a760d8f3369",
+    "thingId": "0a9de252-0413-446b-bb8e-8e036de66fed"
+  },
+  "displayName": "John Doe "
+}

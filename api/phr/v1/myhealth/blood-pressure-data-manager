@@ -1,0 +1,67 @@
+[
+  {
+    "itemKey": {
+      "thingId": "2ae4210e-5d67-425e-9011-f3315d5faee1",
+      "versionStamp": "b714c183-1d5f-449b-a471-3fa273574ab1"
+    },
+    "effectiveDate": {
+      "date": 6,
+      "month": 1,
+      "year": 2025,
+      "hasTimePart": true,
+      "hour": 14,
+      "minute": 42,
+      "second": 0
+    },
+    "isReadOnly": false,
+    "isItemRestricted": false,
+    "thingBasedStyleClass": "",
+    "values": [
+      {
+        "kind": 5,
+        "name": "blood-pressure",
+        "data": {
+          "systolic": 180,
+          "diastolic": 72
+        },
+        "displayString": "120/72 Unit",
+        "sortKey": 120
+      },
+      {
+        "kind": 1,
+        "name": "source",
+        "data": "Justin Case via InstantPHR patient portal",
+        "displayString": "Justin Case via InstantPHR patient portal",
+        "sortKey": "Justin Case via InstantPHR patient portal"
+      },
+      {
+        "kind": 3,
+        "name": "when",
+        "data": {
+          "date": 6,
+          "month": 1,
+          "year": 2025,
+          "hasTimePart": true,
+          "hour": 14,
+          "minute": 42,
+          "second": 0
+        },
+        "displayString": "1/6/2025 02:42 PM",
+        "sortKey": 638717713200000000
+      },
+      {
+        "kind": 11,
+        "name": "pulse",
+        "data": {
+          "value": 74.0,
+          "unit": {
+            "text": "bpm",
+            "value": "bpm"
+          }
+        },
+        "displayString": "74 bpm",
+        "sortKey": 74.0
+      }
+    ]
+  }
+]
